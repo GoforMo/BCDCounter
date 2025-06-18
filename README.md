@@ -23,3 +23,8 @@ While both BCD and binary counters are used in digital systems, binary counters 
 ``` make
 make 
 ```
+and 
+
+```
+./counter.x
+```
